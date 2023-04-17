@@ -1,2 +1,2 @@
 # Curso
-Repositorio de prueba
+Repositorio de prueba de git y github
